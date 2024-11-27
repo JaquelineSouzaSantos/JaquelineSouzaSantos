@@ -1,4 +1,4 @@
-## Oiê, me chamo Jaqueline e estou cursando Técnico em Desenvolvimento de Sistemas através do Senai.
+## Oiê, me chamo Jaqueline e estou cursando Técnico em Desenvolvimento de Sistemas.
 
 ![Jaqueline GitHub stats](https://github-readme-stats.vercel.app/api?username=JaquelineSouzaSantos&show_icons=true&theme=dracula)
 
@@ -8,10 +8,11 @@ Essas são as tecnologias que eu tenho praticado e estudado:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 
+
 ##
 
-Minhas redes sociais e meios de comunicação:
+Por onde você pode ter contato comigo? Veja! :
 
 <div>
-<a href = "[jaquelinedesantos650@gmail.com](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox)"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&quot; target="_blank"></a>
+<a href = "jaquelinedesozuasantos650@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&quot; target="_blank"></a>
 </div>

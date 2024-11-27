@@ -14,5 +14,5 @@ Essas são as tecnologias que eu tenho praticado e estudado:
 Por onde você pode ter contato comigo? Veja! :
 
 <div>
-<a href = "jaquelinedesozuasantos650@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&quot; target="_blank"></a>
+<a href = "mailto:jaquelinedesozuasantos650@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&quot; target="_blank"></a>
 </div>

@@ -1,8 +1,8 @@
-## Oiê, me chamo Jaqueline e estou cursando Técnico em Desenvolvimento de Sistemas.
+## Oiê ♥ Me chamo Jaqueline e estou cursando Técnico em Desenvolvimento de Sistemas. 
 
-![Jaqueline GitHub stats](https://github-readme-stats.vercel.app/api?username=JaquelineSouzaSantos&show_icons=true&theme=dracula)
+![Jaqueline GitHub stats](https://github-readme-stats.vercel.app/api?username=JaquelineSouzaSantos&show_icons=true&theme=highcontrast)
 
-Essas são as tecnologias que eu tenho praticado e estudado:
+Essas são as tecnologias que tenho praticado e estudado:
 <div style="display: inline_block"><br>
 <img align="center" alt="Jaque-JS" height="30" widht="40"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />

@@ -6,8 +6,6 @@ Essas são as tecnologias que eu tenho praticado e estudado:
 <div style="display: inline_block"><br>
 <img align="center" alt="Jaque-JS" height="30" widht="40"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="center" alt="Jaque-JS" height="30" widht="40"
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </div>
 
 
